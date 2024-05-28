@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "4vR-su-3ZK"; */
+"4vR-su-3ZK.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4vR-su-3ZK"; */
+"4vR-su-3ZK.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; Xk9-3I-bUW.segmentTitles[0] = "English"; ObjectID = "Xk9-3I-bUW"; */
+"Xk9-3I-bUW.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; Xk9-3I-bUW.segmentTitles[1] = "Gujarati"; ObjectID = "Xk9-3I-bUW"; */
+"Xk9-3I-bUW.segmentTitles[1]" = "Gujarati";
+
+/* Class = "UISegmentedControl"; Xk9-3I-bUW.segmentTitles[2] = "Spanish"; ObjectID = "Xk9-3I-bUW"; */
+"Xk9-3I-bUW.segmentTitles[2]" = "Spanish";
+
+/* Class = "UISegmentedControl"; Xk9-3I-bUW.segmentTitles[3] = "German"; ObjectID = "Xk9-3I-bUW"; */
+"Xk9-3I-bUW.segmentTitles[3]" = "German";
+
+/* Class = "UISegmentedControl"; Xk9-3I-bUW.segmentTitles[4] = "French"; ObjectID = "Xk9-3I-bUW"; */
+"Xk9-3I-bUW.segmentTitles[4]" = "French";
+
+/* Class = "UILabel"; text = "Arpit Dhameliya"; ObjectID = "bqq-bA-aF2"; */
+"bqq-bA-aF2.text" = "Arpit Dhameliya";
+
+/* Class = "UILabel"; text = "Plexus Technology"; ObjectID = "jUb-yx-aEt"; */
+"jUb-yx-aEt.text" = "Plexus Technology";
